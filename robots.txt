@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Chimpuluime68.github.io/archive-hdq07z/sitemap.xml
